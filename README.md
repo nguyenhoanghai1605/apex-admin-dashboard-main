@@ -22,9 +22,10 @@ We will Make Responsive Admin Dashboard With Dark Mode Using HTML CSS JavaScript
 <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/7695b439-d8fa-464f-b18b-2efe2c2413c8" />
 
 
-## Author
+## Author:
 Co-authored-by: Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
 
 Co-authored-by: Devapro235 - https://github.com/Devapro235
 
 Co-authored-by: LucasDev89 - https://github.com/LucasDev89 
+
